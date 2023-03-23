@@ -1,2 +1,2 @@
-# nari
+# Narendra 
 C programming 
